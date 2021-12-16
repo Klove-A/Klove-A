@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Skills:
 ### FRONTEND: 
-- React.js, Redux, Hooks, Context API, Jest, Yum, Axios, Javascript, HTML, CSS, RESTful API Design, JSX
+- React.js, Redux, Hooks, Context API, Jest, Axios, Javascript, HTML, CSS, RESTful API Design, JSX
 ### BACKEND:
 - Node.js, Express, SQL, PostgreSQL, Python, Git CLI, VS Code, Vercel, Heroku, Netlify, Postman
 ### ADDITIONAL SKILLS:
