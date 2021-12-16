@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- - 🔭 I’m currently working on ... [Human Rights First - Document DB](https://) -->
 <!-- - 💬 Ask me about coding and I may never shut up. LOL -->
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/klove-adams/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/klove-adams/) [Resume](https://docs.google.com/document/d/14sUSyJdT5NJ_wCe3JCrZA77zQjo5dliRqjaM5TwPJ1s/edit)
 <!-- - 😄 [See My PORTFOLIO](https://mansfield-port-v3.netlify.app/) -->
 - ⚡ Fun fact: ...
 
