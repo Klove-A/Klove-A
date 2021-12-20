@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <!-- - 💬 Ask me about coding and I may never shut up. LOL -->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/klove-adams/)
 <!-- - 😄 [See My PORTFOLIO](https://mansfield-port-v3.netlify.app/) -->
-- ⚡ Fun fact: ...
+<!-- - ⚡ Fun fact: ... -->
 
 ## Skills:
 ### FRONTEND: 
