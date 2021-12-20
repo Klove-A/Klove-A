@@ -5,6 +5,8 @@ Klove-A/Klove-A is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+I am a experienced Technical Project Manager with a demonstrated history of working in the non-profit organization management industry. Skilled in Full-Stack Development, HTML, Github, Cascading Style Sheets (CSS), and JavaScript. Strong program and project management professional, with a passion for fixing things and promoting healthy cross-functional teams.
+
 <!-- Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
